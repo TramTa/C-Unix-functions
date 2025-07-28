@@ -1,6 +1,6 @@
 # C-Unix-utilities
 
-Course work:
+Coursework:
 
 Implement several Unix function utilities. 
 
